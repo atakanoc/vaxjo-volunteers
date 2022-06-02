@@ -43,6 +43,3 @@ bin/
 src/main/java/lnu/se/vaxjovolunteers/SettingsTemporarily.java
 src/main/java/generated
 .idea
-
-App/windows/flutter/generated_plugins.cmake
-*.hprof
